@@ -1,20 +1,20 @@
 {
   "publisher": "simonhe",
-  "name": "vue-component-parameter-prompter",
-  "displayName": "vue-component-parameter-prompter",
+  "name": "v-component-prompter",
+  "displayName": "v component prompter",
   "version": "0.0.0",
   "packageManager": "pnpm@8.10.5",
-  "description": "vue-component-parameter-prompter",
+  "description": "v-component-prompter",
   "author": "Simon He <https://github.com/Simon-He95>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/Simon-He95/vue-component-parameter-prompter#readme",
+  "homepage": "https://github.com/Simon-He95/v-component-prompter#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Simon-He95/vue-component-parameter-prompter"
+    "url": "https://github.com/Simon-He95/v-component-prompter"
   },
   "bugs": {
-    "url": "https://github.com/Simon-He95/vue-component-parameter-prompter/issues"
+    "url": "https://github.com/Simon-He95/v-component-prompter/issues"
   },
   "sponsor": {
     "url": "https://github.com/Simon-He95/sponsor"
