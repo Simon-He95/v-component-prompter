@@ -1,8 +1,11 @@
 <p align="center">
-<img height="200" src="./assets/kv.png" alt="to unocss">
+<img height="200" src="./assets/kv.png" alt="v component prompter">
 </p>
 <p align="center"> English | <a href="./README_zh.md">简体中文</a></p>
 
+Provides `props` and `emitEvents` prompts for some self-encapsulated components in Vue development
+
+![demo](/assets/demo.gif)
 
 ## :coffee:
 

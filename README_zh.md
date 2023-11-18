@@ -1,7 +1,11 @@
 <p align="center">
-<img height="200" src="./assets/kv.png" alt="to unocss">
+<img height="200" src="./assets/kv.png" alt="v component prompter">
 </p>
 <p align="center"> <a href="./README.md">English</a> | 简体中文</p>
+
+为Vue开发中的一些自封装组件提供 `props` 和 `emitEvents` 提示。
+
+![demo](/assets/demo.gif)
 
 ## :coffee:
 
