@@ -36,11 +36,14 @@ importers:
         specifier: ^0.16.3
         version: 0.16.3
       lazy-js-utils:
-        specifier: ^0.0.74
-        version: 0.0.74(vue@3.3.8)
+        specifier: ^0.0.75
+        version: 0.0.75(vue@3.3.8)
       pnpm:
         specifier: ^8.10.5
         version: 8.10.5
+      prettier:
+        specifier: ^3.1.0
+        version: 3.1.0
       rimraf:
         specifier: ^4.4.1
         version: 4.4.1
@@ -3271,8 +3274,8 @@ packages:
       vue: 3.3.8(typescript@5.2.2)
     dev: true
 
-  /lazy-js-utils@0.0.74(vue@3.3.8):
-    resolution: {integrity: sha512-6+zoaKj/YwA+n9sItFRYYs3uvm2VvoJsV/bsRbuQeagozus7o4sq6hO8qonUTh9MMxGMd4g6K4Ev5YFBOoXXRQ==}
+  /lazy-js-utils@0.0.75(vue@3.3.8):
+    resolution: {integrity: sha512-mW/PEpelfPIvaT/2vP6LsSPa2OKerLoQY/6A7yf1szwi7wxAnqcIoTsRqwiq81/c1WKGs0Vn5UxqXLw3GEaNZw==}
     peerDependencies:
       vue: ^3.2.41
     dependencies:
@@ -3937,6 +3940,12 @@ packages:
   /prelude-ls@1.2.1:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
     engines: {node: '>= 0.8.0'}
+    dev: true
+
+  /prettier@3.1.0:
+    resolution: {integrity: sha512-TQLvXjq5IAibjh8EpBIkNKxO749UEWABoiIZehEPiY4GNpVdhaFKqSTu+QrlU6D2dPAfubRmtJTi4K4YkQ5eXw==}
+    engines: {node: '>=14'}
+    hasBin: true
     dev: true
 
   /pretty-format@27.5.1:
