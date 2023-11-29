@@ -3,7 +3,9 @@
 </p>
 <p align="center"> English | <a href="./README_zh.md">简体中文</a></p>
 
+>Currently only available for free for sponsors
 Provides `props` and `emitEvents` prompts for some self-encapsulated components in Vue development
+
 
 ![demo](/assets/demo.gif)
 
@@ -11,9 +13,6 @@ Provides `props` and `emitEvents` prompts for some self-encapsulated components 
 
 [buy me a cup of coffee](https://github.com/Simon-He95/sponsor)
 
-## License
-
-[MIT](./license)
 
 ## Sponsors
 
