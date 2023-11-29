@@ -36,8 +36,8 @@ importers:
         specifier: ^0.16.3
         version: 0.16.3
       get-sponsors-list:
-        specifier: ^0.0.3
-        version: 0.0.3(typescript@5.2.2)
+        specifier: ^0.0.4
+        version: 0.0.4(typescript@5.2.2)
       lazy-js-utils:
         specifier: ^0.0.75
         version: 0.0.75(vue@3.3.8)
@@ -2761,8 +2761,8 @@ packages:
       has-symbols: 1.0.3
     dev: true
 
-  /get-sponsors-list@0.0.3(typescript@5.2.2):
-    resolution: {integrity: sha512-WQkf7/jFD8JFhn2z/iKwI9f9KaDpLHPtaTx0RgKYBw7/Zi+6k7fmTrbY5YHSsS+zlVa0/PZGxHuyaNjsgOYxdw==}
+  /get-sponsors-list@0.0.4(typescript@5.2.2):
+    resolution: {integrity: sha512-QKpy6hPnIgZ3uWtzBLFPubd0sp/DlyzlG9yW6oqL75B/Lvt2nWAA8iZbZhIiItnTMYjLyWokpn9dvBxp8zUpBQ==}
     hasBin: true
     dependencies:
       lazy-js-utils: 0.0.24(typescript@5.2.2)
