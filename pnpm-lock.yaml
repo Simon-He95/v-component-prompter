@@ -39,8 +39,8 @@ importers:
         specifier: ^0.0.4
         version: 0.0.4(typescript@5.2.2)
       lazy-js-utils:
-        specifier: ^0.0.75
-        version: 0.0.75(vue@3.3.8)
+        specifier: ^0.0.77
+        version: 0.0.77(vue@3.3.8)
       pnpm:
         specifier: ^8.10.5
         version: 8.10.5
@@ -3347,8 +3347,8 @@ packages:
       vue: 3.3.8(typescript@5.2.2)
     dev: true
 
-  /lazy-js-utils@0.0.75(vue@3.3.8):
-    resolution: {integrity: sha512-mW/PEpelfPIvaT/2vP6LsSPa2OKerLoQY/6A7yf1szwi7wxAnqcIoTsRqwiq81/c1WKGs0Vn5UxqXLw3GEaNZw==}
+  /lazy-js-utils@0.0.77(vue@3.3.8):
+    resolution: {integrity: sha512-rvecNRg6VtA/vzxugRomLsFhHc99Opyt6nFETFyS785gFlPCklZ250Cff0bKefkzLiRLNBiDR1lSTCLmGEJDAg==}
     peerDependencies:
       vue: ^3.2.41
     dependencies:
