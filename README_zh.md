@@ -8,6 +8,11 @@
 
 ![demo](/assets/demo.gif)
 
+
+## Auto Import
+
+在最新版本中，我们可以检测“auto-imports.d.ts” 然后提供 “props”、“events”、“methods”的智能提示 
+
 ## :coffee:
 
 [请我喝一杯咖啡](https://github.com/Simon-He95/sponsor)

@@ -54,6 +54,8 @@
     "bumpp": "^9.2.0",
     "eslint": "^8.53.0",
     "esno": "^0.16.3",
+    "fast-glob": "^3.3.2",
+    "find-up": "^7.0.0",
     "get-sponsors-list": "^0.0.4",
     "lazy-js-utils": "^0.0.77",
     "pnpm": "^8.10.5",

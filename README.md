@@ -6,8 +6,12 @@
 >Currently only available for free for sponsors
 Provides `props` and `emitEvents` prompts for some self-encapsulated components in Vue development
 
-
 ![demo](/assets/demo.gif)
+
+## Auto Import
+
+In the latest version, we can detect `"auto-imports.d.ts"` and provide smart tips for `"props"``, `"events"`` and `"methods"``
+
 
 ## :coffee:
 
