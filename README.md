@@ -3,8 +3,15 @@
 </p>
 <p align="center"> English | <a href="./README_zh.md">简体中文</a></p>
 
->Currently only available for free for sponsors
-Provides `props` and `emitEvents` prompts for some self-encapsulated components in Vue development
+>For the time being, it is only free for sponsor
+
+Bring `props`, `emitEvents` and `expose methods` tips to some imported custom components in Vue development.
+
+## Feature
+
+- Supports multiple types of vue writing
+
+- Support the display of props comments in the form of jsDoc
 
 ![demo](/assets/demo.gif)
 

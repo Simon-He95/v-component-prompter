@@ -4,7 +4,13 @@
 <p align="center"> <a href="./README.md">English</a> | 简体中文</p>
 
 >暂时只针对sponsor免费使用
-为Vue开发中的一些自封装组件提供 `props` 和 `emitEvents` 提示。
+为Vue开发中的一些导入的自定义组件带来 `props` 、 `emitEvents` 和 `expose methods` 提示。
+
+## Feature
+
+- 支持了多种类型的vue写法
+
+- 支持了jsDoc形式的props注释的展示
 
 ![demo](/assets/demo.gif)
 
