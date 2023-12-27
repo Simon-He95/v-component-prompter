@@ -7,17 +7,17 @@ Bring `props`, `emitEvents` and `expose methods` tips to some imported custom co
 
 ## Example
 - I want to know which `props` or `event` types of components I imported can pass and correspond to them.
-![demo](1.jpg)
+![demo](/assets/1.jpg)
 
 - Maybe the attributes in this defineProps are exported from other `ts` files.
-![demo](2.jpg)
-![demo](3.jpg)
+![demo](/assets/2.jpg)
+![demo](/assets/3.jpg)
 
 - When you hover to the `tagName` of this component, there will be a table listing specific passable parameter information.
-![demo](4.jpg)
+![demo](/assets/4.jpg)
 
 - When you hover to a specific attribute on the component attribute, the type of this attribute will be prompted. If there is a comment in the component, it will also be prompted when hover.
-![demo](5.jpg)
+![demo](/assets/5.jpg)
 
 ![demo](/assets/demo.gif)
 
