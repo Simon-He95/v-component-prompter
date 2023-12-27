@@ -3,21 +3,27 @@
 </p>
 <p align="center"> English | <a href="./README_zh.md">简体中文</a></p>
 
->For the time being, it is only free for sponsor
-
 Bring `props`, `emitEvents` and `expose methods` tips to some imported custom components in Vue development.
 
-## Feature
+## Example
+- I want to know which `props` or `event` types of components I imported can pass and correspond to them.
+![demo](1.jpg)
 
-- Supports multiple types of vue writing
+- Maybe the attributes in this defineProps are exported from other `ts` files.
+![demo](2.jpg)
+![demo](3.jpg)
 
-- Support the display of props comments in the form of jsDoc
+- When you hover to the `tagName` of this component, there will be a table listing specific passable parameter information.
+![demo](4.jpg)
+
+- When you hover to a specific attribute on the component attribute, the type of this attribute will be prompted. If there is a comment in the component, it will also be prompted when hover.
+![demo](5.jpg)
 
 ![demo](/assets/demo.gif)
 
 ## Auto Import
 
-In the latest version, we can detect `"auto-imports.d.ts"` and provide smart tips for `"props"``, `"events"`` and `"methods"``
+In the latest version, we can detect `"auto-imports.d.ts"` and provide smart tips for `"props"`, `"events"` and `"methods"`
 
 
 ## :coffee:
