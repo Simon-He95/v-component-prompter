@@ -68,7 +68,7 @@
     "@simon_he/eslint-config": "^0.0.6",
     "@types/node": "^18.18.9",
     "@types/vscode": "^1.84.1",
-    "@vscode-use/utils": "^0.0.72",
+    "@vscode-use/utils": "^0.0.80",
     "@vue/compiler-sfc": "^3.3.8",
     "axios": "^1.6.2",
     "bumpp": "^9.2.0",
