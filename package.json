@@ -76,7 +76,7 @@
     "esno": "^0.16.3",
     "fast-glob": "^3.3.2",
     "find-up": "^7.0.0",
-    "lazy-js-utils": "^0.0.77",
+    "lazy-js-utils": "^0.0.84",
     "node-machine-id": "^1.1.12",
     "pnpm": "^8.10.5",
     "rimraf": "^4.4.1",
