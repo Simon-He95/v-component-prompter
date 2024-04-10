@@ -2,7 +2,7 @@
   "publisher": "simonhe",
   "name": "v-component-prompter",
   "displayName": "v component prompter",
-  "version": "0.0.32",
+  "version": "0.0.33",
   "packageManager": "pnpm@8.10.5",
   "description": "v-component-prompter",
   "author": "Simon He <https://github.com/Simon-He95>",
