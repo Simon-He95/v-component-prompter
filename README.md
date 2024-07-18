@@ -25,11 +25,9 @@ Bring `props`, `emitEvents` and `expose methods` tips to some imported custom co
 
 In the latest version, we can detect `"auto-imports.d.ts"` and provide smart tips for `"props"`, `"events"` and `"methods"`
 
-
 ## :coffee:
 
 [buy me a cup of coffee](https://github.com/Simon-He95/sponsor)
-
 
 ## Sponsors
 

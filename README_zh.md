@@ -16,17 +16,15 @@
 - 当你hover到组件属性上的具体某一个属性时，会提示这个属性的类型，如果你在组件中存在注释，也会在hover的时候提示出来
 ![demo](/assets/5.jpg)
 
-
 ![demo](/assets/demo.gif)
 
 ## Supports
 - vue2、vue3、vue(tsx)
 - auto-import
 
-
 ## Auto Import
 
-在最新版本中，我们可以检测“auto-imports.d.ts” 然后提供 `“props”`、`“events”`、`“methods”` 的智能提示 
+在最新版本中，我们可以检测“auto-imports.d.ts” 然后提供 `“props”`、`“events”`、`“methods”` 的智能提示
 
 ## :coffee:
 

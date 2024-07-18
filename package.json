@@ -3,7 +3,7 @@
   "name": "v-component-prompter",
   "displayName": "v component prompter",
   "version": "0.0.35",
-  "packageManager": "pnpm@8.10.5",
+  "packageManager": "pnpm@8.15.9",
   "description": "v-component-prompter",
   "author": "Simon He <https://github.com/Simon-He95>",
   "license": "MIT",
@@ -19,6 +19,11 @@
   "sponsor": {
     "url": "https://github.com/Simon-He95/sponsor"
   },
+  "keywords": [
+    "vue",
+    "vue-jsx",
+    "vue-prompter"
+  ],
   "categories": [
     "Other"
   ],
@@ -64,26 +69,20 @@
     "release": "pnpm build && bumpp && pnpm run publish"
   },
   "devDependencies": {
-    "@babel/parser": "^7.23.3",
-    "@simon_he/eslint-config": "^0.0.6",
-    "@types/node": "^18.18.9",
+    "@antfu/eslint-config": "^2.23.0",
+    "@types/node": "^18.19.40",
     "@types/vscode": "^1.84.1",
-    "@vscode-use/utils": "^0.0.80",
-    "@vue/compiler-sfc": "^3.3.8",
-    "axios": "^1.6.2",
-    "bumpp": "^9.2.0",
-    "eslint": "^8.53.0",
+    "@vscode-use/utils": "0.1.10-beta.1",
+    "bumpp": "^9.4.1",
+    "eslint": "^8.57.0",
     "esno": "^0.16.3",
     "fast-glob": "^3.3.2",
     "find-up": "^7.0.0",
     "lazy-js-utils": "^0.0.84",
     "lazy-parser": "^0.0.8",
-    "node-machine-id": "^1.1.12",
-    "pnpm": "^8.10.5",
-    "rimraf": "^4.4.1",
+    "pnpm": "^8.15.9",
     "tsup": "^6.7.0",
-    "typescript": "^5.2.2",
-    "vite": "^4.5.0",
+    "typescript": "^5.5.3",
     "vitest": "^0.29.8",
     "vsce": "^2.15.0"
   }
