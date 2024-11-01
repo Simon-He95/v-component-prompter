@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.7.3",
-    "@simon_he/fetch-npm-cjs": "^0.0.3",
+    "@simon_he/fetch-npm-cjs": "^0.0.10",
     "@types/node": "^18.19.40",
     "@types/vscode": "^1.84.1",
     "@vscode-use/utils": "0.1.30",
