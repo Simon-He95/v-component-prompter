@@ -33,7 +33,7 @@
     "dist"
   ],
   "engines": {
-    "vscode": "^1.84.1"
+    "vscode": "^1.95.0"
   },
   "activationEvents": [
     "onStartupFinished"
@@ -69,21 +69,21 @@
     "release": "pnpm build && bumpp && pnpm run publish"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.7.3",
+    "@antfu/eslint-config": "^3.9.1",
     "@simon_he/fetch-npm-cjs": "^0.0.10",
-    "@types/node": "^18.19.40",
-    "@types/vscode": "^1.84.1",
+    "@types/node": "^18.19.64",
+    "@types/vscode": "^1.95.0",
     "@vscode-use/utils": "0.1.30",
-    "bumpp": "^9.4.1",
-    "eslint": "^9.12.0",
+    "bumpp": "^9.8.1",
+    "eslint": "^9.14.0",
     "esno": "^0.16.3",
     "fast-glob": "^3.3.2",
     "find-up": "^7.0.0",
-    "lazy-js-utils": "^0.1.1",
+    "lazy-js-utils": "^0.1.19",
     "lazy-parser": "^0.0.8",
     "pnpm": "^8.15.9",
     "tsup": "^6.7.0",
-    "typescript": "^5.5.3",
+    "typescript": "^5.6.3",
     "vitest": "^0.29.8",
     "vsce": "^2.15.0"
   }
