@@ -12,8 +12,8 @@ importers:
         specifier: ^3.9.1
         version: 3.9.1(@typescript-eslint/utils@8.14.0(eslint@9.14.0(jiti@1.21.6))(typescript@5.6.3))(@vue/compiler-sfc@3.3.8)(eslint@9.14.0(jiti@1.21.6))(typescript@5.6.3)(vitest@0.29.8)
       '@simon_he/fetch-npm-cjs':
-        specifier: ^0.0.10
-        version: 0.0.10
+        specifier: ^0.0.18
+        version: 0.0.18
       '@types/node':
         specifier: ^18.19.64
         version: 18.19.64
@@ -538,8 +538,8 @@ packages:
     resolution: {integrity: sha512-cq8o4cWH0ibXh9VGi5P20Tu9XF/0fFXl9EUinr9QfTM7a7p0oTA4iJRCQWppXR1Pg8dSM0UCItCkPwsk9qWWYA==}
     engines: {node: ^12.20.0 || ^14.18.0 || >=16.0.0}
 
-  '@simon_he/fetch-npm-cjs@0.0.10':
-    resolution: {integrity: sha512-C/bYqxjn7TVMTlM6duvRHtuHMkvvA2niPBgvGasYZQYlnwBY1oLK26BZr7d1ZUhJT8Q2btmzJsLr5zLFZMuwDA==}
+  '@simon_he/fetch-npm-cjs@0.0.18':
+    resolution: {integrity: sha512-SdTPprBFtnp0L+pTpDRwTDkqYLHj2Q6hwOXasuACLwOe6Q7kzmd+nznY5V7QwvogJ0mq2gbZfkjyThn5GDgXPg==}
     hasBin: true
 
   '@stylistic/eslint-plugin@2.10.1':
@@ -3457,7 +3457,7 @@ snapshots:
 
   '@pkgr/core@0.1.1': {}
 
-  '@simon_he/fetch-npm-cjs@0.0.10': {}
+  '@simon_he/fetch-npm-cjs@0.0.18': {}
 
   '@stylistic/eslint-plugin@2.10.1(eslint@9.14.0(jiti@1.21.6))(typescript@5.6.3)':
     dependencies:
